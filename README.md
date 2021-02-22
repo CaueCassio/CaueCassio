@@ -15,3 +15,5 @@
 <a href="https://github.com/CaueCassio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueCassio&theme=radical" />
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CaueCassio&&show_icons=true&theme=radical&line_height=27&v=5" alt="CaueCassio's GitHub Stats" />
